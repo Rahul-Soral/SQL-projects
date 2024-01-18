@@ -3,4 +3,4 @@ This repository includes the SQL Project. Here, I have taken the restaurant reve
 # Software used
 Mysql Workbench, Power Bi
 # restaurant revenue database--- Schema 
-![Analysis and visual representation.png]https://github.com/Rahul-Soral/SQL-projects/blob/main/Analysis%20and%20visual%20representation.png?raw=true
+![Analysis and visual representation.png](https://github.com/Rahul-Soral/SQL-projects/blob/main/Analysis%20and%20visual%20representation.png?raw=true)
